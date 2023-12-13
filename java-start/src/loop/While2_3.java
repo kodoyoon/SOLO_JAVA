@@ -6,7 +6,7 @@ public class While2_3 {
 
     int sum = 0;
     int i = 1;
-    int endNum = 3;
+    int endNum = 3;  //endNum(마지막 수)
 
     // i =1, endNum = 3
 

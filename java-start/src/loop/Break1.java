@@ -8,7 +8,7 @@ public class Break1 {
     while(true) {
       sum = sum + i;
       if(sum>10) {
-        System.out.println("합이 10보다 크면 종료:" +i + "sum=" + sum);
+        System.out.println("합이 10보다 크면 종료:"  + i + "sum=" + sum);
         break;
       }
       i++;
